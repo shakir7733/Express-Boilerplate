@@ -1,0 +1,49 @@
+{
+  "name": "node-boilerplate",
+  "version": "1.0.0",
+  "description": "Node Express Sequilize/Postgres Boilerplate",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakir7733/Express-Boilerplate.git"
+  },
+  "author": "Shakir Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shakir7733/Express-Boilerplate/issues"
+  },
+  "homepage": "https://github.com/shakir7733/Express-Boilerplate#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "express-mailer": "^0.3.1",
+    "helmet": "^3.22.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^8.5.1",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.6",
+    "nodemon": "^2.0.4",
+    "passport": "^0.4.1",
+    "passport-jwt": "^4.0.0",
+    "pg": "^8.2.0",
+    "sequelize": "^5.21.9",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4",
+    "to": "^0.2.9",
+    "update": "^0.7.4",
+    "uuid": "^8.0.0",
+    "validator": "^13.0.0",
+    "ws": "^7.3.0",
+    "xss": "^1.0.6",
+    "xss-clean": "^0.1.1"
+  }
+}

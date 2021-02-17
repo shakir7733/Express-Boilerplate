@@ -1,7 +1,6 @@
 
   module.exports ={
 	mongoURI: '',
-	// mongoURI: 'mongodb+srv://shakir:shakir@alpwander-iuc4f.mongodb.net/travel?retryWrites=true&w=majority',
 	secretOrKey: 'secretQR',
 	DB_NAME:'nodeboilerplate',
 	DB_USER:'postgres',
